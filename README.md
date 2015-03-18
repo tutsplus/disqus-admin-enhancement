@@ -1,2 +1,9 @@
-# disqus-admin-enhancement
-Greasemonkey script to speed up Disqus admin workflow
+# Disqus Admin Enhancement
+
+A Greasemonkey script for Chrome to speed up Disqus admin workflow.
+
+To install:
+
+ 1. Download and install [Tampermonkey Stable](http://tampermonkey.net/).
+ 2. Open this link in your browser: [http://tutsplus.github.io/disqus-admin-enhancement/disqustools.user.js](http://tutsplus.github.io/disqus-admin-enhancement/disqustools.user.js).
+ 3. Click 'Install' when the Tampermonkey dialog pops up.
