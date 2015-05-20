@@ -3,6 +3,7 @@
 // @namespace     http://disqus.com/
 // @description	  Speeds up Disqus workflow
 // @include       https://disqus.com/admin/moderate/*
+// @version       1.0.1
 // ==/UserScript==
 
 var MJW = {};
