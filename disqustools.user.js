@@ -70,6 +70,9 @@ var checkSavedCheckboxes = function () {
 	};
 }
 
+if (localStorage.getItem("MJW.subdomainsToHighlight") === null) {
+	localStorage.setItem("MJW.subdomainsToHighlight", "");
+}
 checkSavedCheckboxes();
 $(document).bind('page:render:done', highlightDesiredComments);
 $('input.siteCheckbox').change(onCheckboxChanged);
